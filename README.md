@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ialifhassan" target="blank"><img src="https://img.shields.io/twitter/follow/ialifhassan?logo=twitter&style=for-the-badge" alt="ialifhassan" /></a> </p>
 
-- 🔭 I’m currently working on [DigiLease](https://www.figma.com/proto/mt3F4WlRxNAfqr4bysLJxC/DCL?page-id=3129%3A58074&type=design&node-id=3623-58259&t=5LgQidMV95dHz9tg-0&scaling=scale-down-width&starting-point-node-id=3623%3A58259&hide-ui=1)
+- 🔭 I’m currently working as a UI/UX Designer at Deepchain Labs.
 
 - 🌱 I’m currently learning **User Experience, User Flows, User Centric Design,**
 
